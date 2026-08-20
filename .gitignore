@@ -1,0 +1,28 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/bd/*/hdl/
+*.gen/
+vivado*.jou
+vivado*.log
+webtalk*.jou
+webtalk*.log
+*.xpr
+.metadata/
+
+# Vitis generated files
+*.elf
+Debug/
+Release/
+*.ltx
+
+# OS files
+.DS_Store
+Thumbs.db
